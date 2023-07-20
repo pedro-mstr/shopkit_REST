@@ -1,0 +1,53 @@
+How to PUT product :
+put product/product/{id}
+
+Update a product:
+
+curl -X POST 'https://api.shopk.it/v1/product/' \
+-H 'X-API-KEY: f4c3cfc9af72e01c60d8b5f0b47492b2ee467c0c' \
+-H 'Content-Type: application/json' \
+-d'{"reference": "SWB-001", "featured": true}'
+
+
+Attributes, Type, Choices, Description
+title, string, , Title
+price, float, , Price
+categories, array[integer], , Array with categories identifier
+brand, integer, , Brand identifier
+handle, string, , Handle
+reference, string, , SKU
+barcode, string, , EAN, ISBN, UPC, GTIN, etc.
+price_promo, float, , Promotion price (must be lower than price)
+promo_show_percentage, boolean, true false, Show discount in percent
+price_on_request, boolean, true false, Price is on request
+wholesale, boolean, true false, Product has wholesale price
+price_wholesale, float, , Product wholesale price (requires wholesale enabled)
+wholesale_exclusive, boolean, true false, Product is wholesale exclusive
+status, integer, 1 2 3 4, Status: 1 (active) 2 (hidden) 3 (out of stock) 4 (soon)
+shipping, float, , Shipping cost
+shipping_alone, boolean, true false, Shipping alone option
+featured, boolean, true false, Product is featured option
+new, boolean, true false, Product is new option
+is_promotion, boolean, true false, Product is in promotion option
+description, string, , Description
+excerpt, string, , Excerpt (short description)
+video_url, string, , Video url, youtube or vimeo url
+file, string, , File url
+tax, float, , Tax (deprecated in favor of taxable)
+taxable, boolean, , Product is taxable
+reduced_rate, string, choices, VAT reduced rate
+meta_description, string, , Meta description
+meta_tags, string, , Meta tags
+page_title, string, , Product page title
+weight, integer, , Weight (in grams)
+images, array[string], , Array with images url, max 10
+tags, array[string], , Array with tags
+stock_enabled, boolean, true false, Enables Product stock
+stock_qty, integer, , Units in stock (requires product stock enabled)
+stock_backorder, boolean, true false, Allows to receice orders without units in stock (requires stock enabled)
+stock_show, boolean, true false, Show product stock units (requires stock enabled)
+stock_sold_single, boolean, true false, Only allow to sell 1 unit per order (requires stock enabled)
+stock_notify, integer, , Product minium stock units (requires stock enabled)
+
+URI Parameters:
+id, integer (required) Product identifier
