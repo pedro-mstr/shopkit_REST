@@ -1,0 +1,572 @@
+{
+    "0": {
+        "id": 1206424,
+        "title": "Quarto de Casal DUE 01",
+        "reference": "2xD4265",
+        "barcode": "",
+        "price": 2041.42854,
+        "price_formatted": "2.041,43 \u20ac",
+        "price_promo": 1648.999992,
+        "price_promo_formatted": "1.649,00 \u20ac",
+        "price_wholesale": null,
+        "price_wholesale_formatted": null,
+        "promo_show_percentage": false,
+        "price_promo_percentage": null,
+        "price_on_request": false,
+        "created_at": "2019-08-03T14:31:18+01:00",
+        "status": 2,
+        "position": 0,
+        "origin_country": null,
+        "harmonized_code": null,
+        "shipping": 0,
+        "shipping_alone": false,
+        "featured": false,
+        "new": false,
+        "is_promotion": false,
+        "description": "Quarto de Casal",
+        "excerpt": "Conjunto de Quarto",
+        "video_url": "",
+        "file": null,
+        "tax": 23,
+        "taxable": true,
+        "reduced_rate": null,
+        "meta_description": "Conjunto de Quarto",
+        "meta_tags": "",
+        "handle": "quarto-casal-due-01",
+        "page_title": "Quarto de Casal DUE 01",
+        "weight": 0,
+        "sales": 0,
+        "variants_same_values": true,
+        "updated_at": "2022-06-13T10:01:38+01:00",
+        "wholesale": false,
+        "wholesale_exclusive": false,
+        "related_products": {
+            "type": "category",
+            "title": "Tamb\u00e9m poder\u00e1 gostar de",
+            "products": null
+        },
+        "related_products_ids": null,
+        "related_products_title": "Tamb\u00e9m poder\u00e1 gostar de",
+        "id_campaign": null,
+        "description_short": "Conjunto de Quarto",
+        "promo": true,
+        "url": "https://www.mikasasukasa.pt/product/quarto-casal-due-01",
+        "add_cart_url": "https://www.mikasasukasa.pt/cart/add/quarto-casal-due-01",
+        "wishlist": {
+            "add_url": "https://www.mikasasukasa.pt/wishlist/add/quarto-casal-due-01",
+            "remove_url": "https://www.mikasasukasa.pt/wishlist/remove/quarto-casal-due-01"
+        },
+        "permalink": "https://mikasasukasa.shopk.it/product/quarto-casal-due-01",
+        "video_embed_url": false,
+        "image": {
+            "thumb": "https://cdn.shopk.it/01.jpg",
+            "square": "https://cdn.shopk.it/01.jpg",
+            "full": "https://cdn.shopk.it/01.jpg"
+        },
+        "images": [
+            {
+                "thumb": "https://cdn.shopk.it/1-gav.jpg",
+                "square": "https://cdn.shopk.it/1-gav.jpg",
+                "full": "https://cdn.shopk.it/1-gav.jpg"
+            }
+        ],
+        "status_alias": "hidden",
+        "price_without_tax": 1340.6504,
+        "categories": [
+            {
+                "id": 143812,
+                "parent": 311755,
+                "active": false,
+                "title": "Quartos de Casal DUE Completos",
+                "description": "Colec\u00e7\u00e3o DUE",
+                "handle": "quarto-casal-coleccao-due",
+                "filter": "all",
+                "url": "https://www.mikasasukasa.pt/category/quarto-casal-coleccao-due",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/22.jpg",
+                    "square": "https://cdn.shopk.it/22.jpg",
+                    "full": "https://cdn.shopk.it/22.jpg"
+                }
+            }
+        ],
+        "brand": {
+            "id": 1183,
+            "active": true,
+            "title": "Salcedo Mueble",
+            "description": "Salcedo Mueble",
+            "handle": "salcedo-mueble",
+            "url": "https://www.mikasasukasa.pt/brand/salcedo-mueble",
+            "permalink": "https://mikasasukasa.shopk.it/brand/salcedo-mueble",
+            "image": {
+                "thumb": "https://cdn.shopk.it/mueble.jpg",
+                "square": "https://cdn.shopk.it/mueble.jpg",
+                "full": "https://cdn.shopk.it/mueble.jpg"
+            }
+        },
+        "tags": [],
+        "options": [
+            {
+                "id": 1384862,
+                "id_variant_1": 914763,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "150x190 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            },
+            {
+                "id": 1384863,
+                "id_variant_1": 914764,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "150x200 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            },
+            {
+                "id": 1384864,
+                "id_variant_1": 914765,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "160x190 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            },
+            {
+                "id": 1384865,
+                "id_variant_1": 914766,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "160x200 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            }
+        ],
+        "option_groups": [
+            {
+                "id": 258480,
+                "title": "Selecione - Medida de Colch\u00e3o",
+                "options": [
+                    {
+                        "id": 914763,
+                        "title": "150x190 Cm"
+                    },
+                    {
+                        "id": 914764,
+                        "title": "150x200 Cm"
+                    },
+                    {
+                        "id": 914765,
+                        "title": "160x190 Cm"
+                    },
+                    {
+                        "id": 914766,
+                        "title": "160x200 Cm"
+                    }
+                ]
+            }
+        ],
+        "price_range": [
+            2041.42854,
+            2041.42854,
+            2041.42854,
+            2041.42854
+        ],
+        "price_min": 2041.42854,
+        "price_max": 2041.42854,
+        "stock": {
+            "stock_enabled": true,
+            "stock_qty": 10,
+            "stock_backorder": false,
+            "stock_show": true,
+            "stock_sold_single": false,
+            "stock_notify": null
+        },
+        "rating": null,
+        "custom_fields": null,
+        "tabs": null
+    },
+    "1": {
+        "id": 1206424,
+        "title": "Quarto de Casal DUE 01",
+        "reference": "2xD4265",
+        "barcode": "",
+        "price": 2041.42854,
+        "price_formatted": "2.041,43 \u20ac",
+        "price_promo": 1648.999992,
+        "price_promo_formatted": "1.649,00 \u20ac",
+        "price_wholesale": null,
+        "price_wholesale_formatted": null,
+        "promo_show_percentage": false,
+        "price_promo_percentage": null,
+        "price_on_request": false,
+        "created_at": "2019-08-03T14:31:18+01:00",
+        "status": 2,
+        "position": 0,
+        "origin_country": null,
+        "harmonized_code": null,
+        "shipping": 0,
+        "shipping_alone": false,
+        "featured": false,
+        "new": false,
+        "is_promotion": false,
+        "description": "Quarto de Casal",
+        "excerpt": "Conjunto de Quarto",
+        "video_url": "",
+        "file": null,
+        "tax": 23,
+        "taxable": true,
+        "reduced_rate": null,
+        "meta_description": "Conjunto de Quarto",
+        "meta_tags": "",
+        "handle": "quarto-casal-due-01",
+        "page_title": "Quarto de Casal DUE 01",
+        "weight": 0,
+        "sales": 0,
+        "variants_same_values": true,
+        "updated_at": "2022-06-13T10:01:38+01:00",
+        "wholesale": false,
+        "wholesale_exclusive": false,
+        "related_products": {
+            "type": "category",
+            "title": "Tamb\u00e9m poder\u00e1 gostar de",
+            "products": null
+        },
+        "related_products_ids": null,
+        "related_products_title": "Tamb\u00e9m poder\u00e1 gostar de",
+        "id_campaign": null,
+        "description_short": "Conjunto de Quarto",
+        "promo": true,
+        "url": "https://www.mikasasukasa.pt/product/quarto-casal-due-01",
+        "add_cart_url": "https://www.mikasasukasa.pt/cart/add/quarto-casal-due-01",
+        "wishlist": {
+            "add_url": "https://www.mikasasukasa.pt/wishlist/add/quarto-casal-due-01",
+            "remove_url": "https://www.mikasasukasa.pt/wishlist/remove/quarto-casal-due-01"
+        },
+        "permalink": "https://mikasasukasa.shopk.it/product/quarto-casal-due-01",
+        "video_embed_url": false,
+        "image": {
+            "thumb": "https://cdn.shopk.it/01.jpg",
+            "square": "https://cdn.shopk.it/01.jpg",
+            "full": "https://cdn.shopk.it/01.jpg"
+        },
+        "images": [
+            {
+                "thumb": "https://cdn.shopk.it/1-gav.jpg",
+                "square": "https://cdn.shopk.it/1-gav.jpg",
+                "full": "https://cdn.shopk.it/1-gav.jpg"
+            }
+        ],
+        "status_alias": "hidden",
+        "price_without_tax": 1340.6504,
+        "categories": [
+            {
+                "id": 143812,
+                "parent": 311755,
+                "active": false,
+                "title": "Quartos de Casal DUE Completos",
+                "description": "Colec\u00e7\u00e3o DUE",
+                "handle": "quarto-casal-coleccao-due",
+                "filter": "all",
+                "url": "https://www.mikasasukasa.pt/category/quarto-casal-coleccao-due",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/22.jpg",
+                    "square": "https://cdn.shopk.it/22.jpg",
+                    "full": "https://cdn.shopk.it/22.jpg"
+                }
+            }
+        ],
+        "brand": {
+            "id": 1183,
+            "active": true,
+            "title": "Salcedo Mueble",
+            "description": "Salcedo Mueble",
+            "handle": "salcedo-mueble",
+            "url": "https://www.mikasasukasa.pt/brand/salcedo-mueble",
+            "permalink": "https://mikasasukasa.shopk.it/brand/salcedo-mueble",
+            "image": {
+                "thumb": "https://cdn.shopk.it/mueble.jpg",
+                "square": "https://cdn.shopk.it/mueble.jpg",
+                "full": "https://cdn.shopk.it/mueble.jpg"
+            }
+        },
+        "tags": [],
+        "options": [
+            {
+                "id": 1384862,
+                "id_variant_1": 914763,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "150x190 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            },
+            {
+                "id": 1384863,
+                "id_variant_1": 914764,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "150x200 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            },
+            {
+                "id": 1384864,
+                "id_variant_1": 914765,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "160x190 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            },
+            {
+                "id": 1384865,
+                "id_variant_1": 914766,
+                "id_variant_2": null,
+                "id_variant_3": null,
+                "title": "160x200 Cm",
+                "price": 2041.42854,
+                "price_formatted": "2.041,43 \u20ac",
+                "price_promo": 1648.999992,
+                "price_promo_formatted": "1.649,00 \u20ac",
+                "price_wholesale": null,
+                "price_wholesale_formatted": null,
+                "price_without_tax": 1340.6504,
+                "promo": true,
+                "price_promo_percentage": null,
+                "price_on_request": false,
+                "stock": 10,
+                "shipping": 0,
+                "weight": 0,
+                "reference": "2xD4265",
+                "barcode": "",
+                "active": true,
+                "url": "https://www.mikasasukasa.pt",
+                "image": {
+                    "thumb": "https://cdn.shopk.it/01.jpg",
+                    "square": "https://cdn.shopk.it/01.jpg",
+                    "full": "https://cdn.shopk.it/01.jpg"
+                },
+                "wishlist": {
+                    "add_url": "https://www.mikasasukasa.pt",
+                    "remove_url": "https://www.mikasasukasa.pt"
+                }
+            }
+        ],
+        "option_groups": [
+            {
+                "id": 258480,
+                "title": "Selecione - Medida de Colch\u00e3o",
+                "options": [
+                    {
+                        "id": 914763,
+                        "title": "150x190 Cm"
+                    },
+                    {
+                        "id": 914764,
+                        "title": "150x200 Cm"
+                    },
+                    {
+                        "id": 914765,
+                        "title": "160x190 Cm"
+                    },
+                    {
+                        "id": 914766,
+                        "title": "160x200 Cm"
+                    }
+                ]
+            }
+        ],
+        "price_range": [
+            2041.42854,
+            2041.42854,
+            2041.42854,
+            2041.42854
+        ],
+        "price_min": 2041.42854,
+        "price_max": 2041.42854,
+        "stock": {
+            "stock_enabled": true,
+            "stock_qty": 10,
+            "stock_backorder": false,
+            "stock_show": true,
+            "stock_sold_single": false,
+            "stock_notify": null
+        },
+        "rating": null,
+        "custom_fields": null,
+        "tabs": null
+    },
+    "paging": {
+        "previous": null,
+        "next": "https://api.shopk.it/v1/product?limit=50&page=2"
+    }
+}
